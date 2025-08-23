@@ -27,9 +27,15 @@ jobs:
       run: python scraper.py
       
     - name: Commit and push results
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git diff --staged --quiet || git commit -m "Update commodity prices - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-        git push
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update commodity prices - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        fi
