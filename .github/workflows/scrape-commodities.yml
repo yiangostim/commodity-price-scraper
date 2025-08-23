@@ -1,0 +1,35 @@
+name: Scrape Commodity Prices
+
+on:
+  schedule:
+    # Runs every 12 hours at 00:00 and 12:00 UTC
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  scrape-prices:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 pandas lxml
+        
+    - name: Run scraper
+      run: python scraper.py
+      
+    - name: Commit and push results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --staged --quiet || git commit -m "Update commodity prices - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+        git push
