@@ -111,70 +111,68 @@ def scrape_commodity_prices():
 
 def save_data(commodities_data):
     """
-    Save the scraped data to multiple formats
+    Save the scraped data to a single CSV file (append mode)
     """
     if not commodities_data:
         print("No data to save")
         return
     
-    # Create timestamp for this scrape
-    scrape_timestamp = datetime.now(timezone.utc).isoformat()
+    # Create European-style timestamp: 23/08/2025 14:06
+    now_utc = datetime.now(timezone.utc)
+    scrape_timestamp = now_utc.strftime("%d/%m/%Y %H:%M")
     
     # Create data directory if it doesn't exist
     os.makedirs('data', exist_ok=True)
     
-    # Create the final data structure
-    data_structure = {
-        'scrape_timestamp_utc': scrape_timestamp,
+    # Prepare CSV data
+    csv_data = []
+    for commodity in commodities_data:
+        csv_row = {
+            'timestamp': scrape_timestamp,
+            'category': commodity['category'],
+            'name': commodity['name'],
+            'price': commodity['price'],
+            'percentage_change': commodity['percentage_change'],
+            'absolute_change': commodity['absolute_change'],
+            'unit': commodity['unit'],
+            'market_time': commodity['market_time'],
+            'trend': commodity['trend']
+        }
+        csv_data.append(csv_row)
+    
+    df = pd.DataFrame(csv_data)
+    
+    # Define the main CSV file
+    csv_filename = 'data/commodity_prices.csv'
+    
+    # Check if file exists to determine if we need headers
+    file_exists = os.path.exists(csv_filename)
+    
+    # Append to CSV file (or create if doesn't exist)
+    df.to_csv(csv_filename, mode='a', header=not file_exists, index=False)
+    
+    if file_exists:
+        print(f"Appended {len(csv_data)} commodities to {csv_filename}")
+    else:
+        print(f"Created {csv_filename} with {len(csv_data)} commodities")
+    
+    # Also save as latest JSON for API purposes
+    latest_data = {
+        'last_updated': scrape_timestamp,
         'total_commodities': len(commodities_data),
-        'categories': len(set(item['category'] for item in commodities_data)),
         'commodities': commodities_data
     }
     
-    # Save as JSON (detailed data)
-    json_filename = f'data/commodity_prices_{datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")}.json'
-    with open(json_filename, 'w') as f:
-        json.dump(data_structure, f, indent=2)
-    print(f"Saved detailed data to {json_filename}")
-    
-    # Save as CSV (flattened data)
-    df = pd.DataFrame(commodities_data)
-    df['scrape_timestamp_utc'] = scrape_timestamp
-    csv_filename = f'data/commodity_prices_{datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")}.csv'
-    df.to_csv(csv_filename, index=False)
-    print(f"Saved CSV data to {csv_filename}")
-    
-    # Save latest data (overwrite each time)
     with open('data/latest_prices.json', 'w') as f:
-        json.dump(data_structure, f, indent=2)
+        json.dump(latest_data, f, indent=2)
     print("Updated latest_prices.json")
-    
-    df.to_csv('data/latest_prices.csv', index=False)
-    print("Updated latest_prices.csv")
-    
-    # Create summary
-    summary = {
-        'last_updated_utc': scrape_timestamp,
-        'total_commodities': len(commodities_data),
-        'categories_summary': {}
-    }
-    
-    for category in set(item['category'] for item in commodities_data):
-        category_items = [item for item in commodities_data if item['category'] == category]
-        summary['categories_summary'][category] = {
-            'count': len(category_items),
-            'commodities': [item['name'] for item in category_items]
-        }
-    
-    with open('data/summary.json', 'w') as f:
-        json.dump(summary, f, indent=2)
-    print("Updated summary.json")
 
 def main():
     """
     Main function to run the scraper
     """
-    print(f"Starting commodity price scrape at {datetime.now(timezone.utc).isoformat()}")
+    now_utc = datetime.now(timezone.utc)
+    print(f"Starting commodity price scrape at {now_utc.strftime('%d/%m/%Y %H:%M')}")
     
     # Scrape the data
     commodities = scrape_commodity_prices()
@@ -185,7 +183,7 @@ def main():
         # Save the data
         save_data(commodities)
         
-        print("\nScrape completed successfully!")
+        print(f"\nScrape completed successfully at {now_utc.strftime('%d/%m/%Y %H:%M')}!")
     else:
         print("No data was scraped. Please check the website structure or network connection.")
         exit(1)
