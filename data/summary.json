@@ -1,0 +1,37 @@
+{
+  "last_updated_utc": "2025-08-23T18:44:05.208810+00:00",
+  "total_commodities": 16,
+  "categories_summary": {
+    "Industrial Metals": {
+      "count": 6,
+      "commodities": [
+        "Natural Gas (Henry Hub)",
+        "Heating Oil",
+        "Coal",
+        "RBOB Gasoline",
+        "Oil (Brent)",
+        "Oil (WTI)"
+      ]
+    },
+    "Agriculture": {
+      "count": 6,
+      "commodities": [
+        "Aluminium",
+        "Lead",
+        "Copper",
+        "Nickel",
+        "Zinc",
+        "Tin"
+      ]
+    },
+    "Energy": {
+      "count": 4,
+      "commodities": [
+        "Gold",
+        "Palladium",
+        "Platinum",
+        "Silver"
+      ]
+    }
+  }
+}
