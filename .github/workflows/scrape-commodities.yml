@@ -2,8 +2,8 @@ name: Scrape Commodity Prices
 
 on:
   schedule:
-    # Runs every 12 hours at 00:00 and 12:00 UTC
-    - cron: '0 0,12 * * *'
+    # Runs every 6 hours (at 00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -13,6 +13,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
       
     - name: Set up Python
       uses: actions/setup-python@v4
