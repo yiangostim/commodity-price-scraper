@@ -1,5 +1,5 @@
 {
-  "last_updated": "30/08/2025 00:49",
+  "last_updated": "30/08/2025 06:14",
   "total_commodities": 16,
   "commodities": [
     {
@@ -9,38 +9,38 @@
       "percentage_change": "0.00%",
       "absolute_change": "0.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "08:43:00 PM",
+      "market_time": "02:07:00 AM",
       "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Palladium",
       "price": "1,108.00",
-      "percentage_change": "0.14%",
-      "absolute_change": "1.50",
+      "percentage_change": "0.00%",
+      "absolute_change": "0.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "04:47:00 PM",
-      "trend": "up"
+      "market_time": "8/29/2025",
+      "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Platinum",
       "price": "1,369.00",
-      "percentage_change": "0.70%",
-      "absolute_change": "9.50",
+      "percentage_change": "0.00%",
+      "absolute_change": "0.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "04:48:00 PM",
-      "trend": "up"
+      "market_time": "8/29/2025",
+      "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Silver",
       "price": "39.74",
-      "percentage_change": "1.66%",
-      "absolute_change": "0.65",
+      "percentage_change": "0.00%",
+      "absolute_change": "0.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "04:52:00 PM",
-      "trend": "up"
+      "market_time": "8/29/2025",
+      "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
@@ -49,7 +49,7 @@
       "percentage_change": "0.94%",
       "absolute_change": "0.03",
       "unit": "USD per MMBtu",
-      "market_time": "05:00:00 PM",
+      "market_time": "8/29/2025",
       "trend": "up"
     },
     {
@@ -59,7 +59,7 @@
       "percentage_change": "-1.73%",
       "absolute_change": "-1.06",
       "unit": "USD per 100 Liter",
-      "market_time": "02:27:00 PM",
+      "market_time": "8/29/2025",
       "trend": "down"
     },
     {
@@ -79,7 +79,7 @@
       "percentage_change": "1.25%",
       "absolute_change": "0.03",
       "unit": "per Gallone",
-      "market_time": "02:27:00 PM",
+      "market_time": "8/29/2025",
       "trend": "up"
     },
     {
@@ -89,7 +89,7 @@
       "percentage_change": "-0.22%",
       "absolute_change": "-0.15",
       "unit": "USD per Barrel",
-      "market_time": "02:30:00 PM",
+      "market_time": "8/29/2025",
       "trend": "down"
     },
     {
@@ -99,7 +99,7 @@
       "percentage_change": "-0.47%",
       "absolute_change": "-0.30",
       "unit": "USD per Barrel",
-      "market_time": "05:00:00 PM",
+      "market_time": "8/29/2025",
       "trend": "down"
     },
     {
@@ -109,7 +109,7 @@
       "percentage_change": "0.17%",
       "absolute_change": "4.46",
       "unit": "USD per Ton",
-      "market_time": "01:00:00 PM",
+      "market_time": "8/29/2025",
       "trend": "up"
     },
     {
@@ -119,7 +119,7 @@
       "percentage_change": "-0.05%",
       "absolute_change": "-1.00",
       "unit": "USD per Ton",
-      "market_time": "08:15:00 AM",
+      "market_time": "8/29/2025",
       "trend": "down"
     },
     {
@@ -129,7 +129,7 @@
       "percentage_change": "1.05%",
       "absolute_change": "101.50",
       "unit": "USD per Ton",
-      "market_time": "07:47:00 AM",
+      "market_time": "8/29/2025",
       "trend": "up"
     },
     {
@@ -139,7 +139,7 @@
       "percentage_change": "1.17%",
       "absolute_change": "175.00",
       "unit": "USD per Ton",
-      "market_time": "08:18:00 AM",
+      "market_time": "8/29/2025",
       "trend": "up"
     },
     {
@@ -149,7 +149,7 @@
       "percentage_change": "1.84%",
       "absolute_change": "51.00",
       "unit": "USD per Ton",
-      "market_time": "08:15:00 AM",
+      "market_time": "8/29/2025",
       "trend": "up"
     },
     {
@@ -159,7 +159,7 @@
       "percentage_change": "1.82%",
       "absolute_change": "635.00",
       "unit": "USD per Ton",
-      "market_time": "07:59:00 AM",
+      "market_time": "8/29/2025",
       "trend": "up"
     }
   ]
