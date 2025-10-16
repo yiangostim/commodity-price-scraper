@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/10/2025 12:22",
+  "last_updated": "16/10/2025 18:16",
   "total_commodities": 16,
   "commodities": [
     {
@@ -35,12 +35,12 @@
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "53.01",
-      "percentage_change": "-0.17%",
-      "absolute_change": "-0.09",
+      "price": "54.02",
+      "percentage_change": "1.73%",
+      "absolute_change": "0.92",
       "unit": "USD per Troy Ounce",
-      "market_time": "08:19:00 AM",
-      "trend": "down"
+      "market_time": "02:10:00 PM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
@@ -75,11 +75,11 @@
     {
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
-      "price": "1.83",
-      "percentage_change": "-0.47%",
-      "absolute_change": "-0.01",
+      "price": "1.81",
+      "percentage_change": "-1.61%",
+      "absolute_change": "-0.03",
       "unit": "per Gallone",
-      "market_time": "08:19:00 AM",
+      "market_time": "02:10:00 PM",
       "trend": "down"
     },
     {
