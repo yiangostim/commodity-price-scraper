@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/10/2025 00:52",
+  "last_updated": "17/10/2025 06:16",
   "total_commodities": 16,
   "commodities": [
     {
@@ -9,7 +9,7 @@
       "percentage_change": "0.42%",
       "absolute_change": "17.52",
       "unit": "USD per Troy Ounce",
-      "market_time": "05:43:00 AM",
+      "market_time": "10/16/2025",
       "trend": "up"
     },
     {
@@ -19,7 +19,7 @@
       "percentage_change": "0.55%",
       "absolute_change": "8.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "05:42:00 AM",
+      "market_time": "10/16/2025",
       "trend": "up"
     },
     {
@@ -29,18 +29,18 @@
       "percentage_change": "0.45%",
       "absolute_change": "7.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "05:42:00 AM",
+      "market_time": "10/16/2025",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "54.09",
-      "percentage_change": "-0.35%",
-      "absolute_change": "-0.19",
+      "price": "54.45",
+      "percentage_change": "0.31%",
+      "absolute_change": "0.17",
       "unit": "USD per Troy Ounce",
-      "market_time": "08:46:00 PM",
-      "trend": "down"
+      "market_time": "02:07:00 AM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
@@ -49,7 +49,7 @@
       "percentage_change": "0.33%",
       "absolute_change": "0.01",
       "unit": "USD per MMBtu",
-      "market_time": "05:43:00 AM",
+      "market_time": "10/16/2025",
       "trend": "up"
     },
     {
@@ -59,7 +59,7 @@
       "percentage_change": "1.38%",
       "absolute_change": "0.79",
       "unit": "USD per 100 Liter",
-      "market_time": "05:43:00 AM",
+      "market_time": "10/16/2025",
       "trend": "up"
     },
     {
@@ -69,17 +69,17 @@
       "percentage_change": "1.09%",
       "absolute_change": "1.00",
       "unit": "per Ton",
-      "market_time": "05:11:00 AM",
+      "market_time": "10/16/2025",
       "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
       "price": "1.81",
-      "percentage_change": "-0.12%",
+      "percentage_change": "-0.23%",
       "absolute_change": "",
       "unit": "per Gallone",
-      "market_time": "08:46:00 PM",
+      "market_time": "02:06:00 AM",
       "trend": "down"
     },
     {
@@ -89,7 +89,7 @@
       "percentage_change": "-0.53%",
       "absolute_change": "-0.33",
       "unit": "USD per Barrel",
-      "market_time": "05:34:00 AM",
+      "market_time": "10/16/2025",
       "trend": "down"
     },
     {
@@ -99,7 +99,7 @@
       "percentage_change": "-0.17%",
       "absolute_change": "-0.10",
       "unit": "USD per Barrel",
-      "market_time": "05:43:00 AM",
+      "market_time": "10/16/2025",
       "trend": "down"
     },
     {
@@ -109,7 +109,7 @@
       "percentage_change": "0.37%",
       "absolute_change": "10.09",
       "unit": "USD per Ton",
-      "market_time": "12:33:00 PM",
+      "market_time": "10/16/2025",
       "trend": "up"
     },
     {
@@ -129,7 +129,7 @@
       "percentage_change": "-1.93%",
       "absolute_change": "-206.75",
       "unit": "USD per Ton",
-      "market_time": "09:12:00 AM",
+      "market_time": "10/16/2025",
       "trend": "down"
     },
     {
@@ -149,7 +149,7 @@
       "percentage_change": "-1.62%",
       "absolute_change": "-51.05",
       "unit": "USD per Ton",
-      "market_time": "08:40:00 AM",
+      "market_time": "10/16/2025",
       "trend": "down"
     },
     {
@@ -159,7 +159,7 @@
       "percentage_change": "-0.65%",
       "absolute_change": "-230.00",
       "unit": "USD per Ton",
-      "market_time": "08:22:00 AM",
+      "market_time": "10/16/2025",
       "trend": "down"
     }
   ]
