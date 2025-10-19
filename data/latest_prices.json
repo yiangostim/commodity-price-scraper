@@ -1,5 +1,5 @@
 {
-  "last_updated": "19/10/2025 12:19",
+  "last_updated": "19/10/2025 18:14",
   "total_commodities": 16,
   "commodities": [
     {
@@ -56,11 +56,11 @@
       "category": "Industrial Metals",
       "name": "Heating Oil",
       "price": "57.59",
-      "percentage_change": "1.40%",
-      "absolute_change": "0.79",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per 100 Liter",
       "market_time": "10/17/2025",
-      "trend": "up"
+      "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
