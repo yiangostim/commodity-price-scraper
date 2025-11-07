@@ -1,66 +1,66 @@
 {
-  "last_updated": "07/11/2025 12:22",
+  "last_updated": "07/11/2025 18:16",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,004.44",
-      "percentage_change": "0.69%",
-      "absolute_change": "27.32",
+      "price": "4,005.64",
+      "percentage_change": "0.72%",
+      "absolute_change": "28.52",
       "unit": "USD per Troy Ounce",
-      "market_time": "07:16:00 AM",
+      "market_time": "01:10:00 PM",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Palladium",
-      "price": "1,389.50",
-      "percentage_change": "0.32%",
-      "absolute_change": "4.50",
+      "price": "1,402.00",
+      "percentage_change": "1.23%",
+      "absolute_change": "17.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "07:15:00 AM",
+      "market_time": "01:10:00 PM",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "1,560.50",
-      "percentage_change": "0.91%",
-      "absolute_change": "14.00",
+      "price": "1,548.00",
+      "percentage_change": "0.10%",
+      "absolute_change": "1.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "07:16:00 AM",
+      "market_time": "01:10:00 PM",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "48.75",
-      "percentage_change": "1.48%",
-      "absolute_change": "0.71",
+      "price": "48.30",
+      "percentage_change": "0.54%",
+      "absolute_change": "0.26",
       "unit": "USD per Troy Ounce",
-      "market_time": "07:16:00 AM",
+      "market_time": "01:10:00 PM",
       "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Natural Gas (Henry Hub)",
-      "price": "4.32",
-      "percentage_change": "-0.90%",
-      "absolute_change": "-0.04",
+      "price": "4.36",
+      "percentage_change": "0.07%",
+      "absolute_change": "",
       "unit": "USD per MMBtu",
-      "market_time": "07:17:00 AM",
-      "trend": "down"
+      "market_time": "01:10:00 PM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Heating Oil",
-      "price": "67.36",
-      "percentage_change": "2.00%",
-      "absolute_change": "1.32",
+      "price": "65.51",
+      "percentage_change": "-0.80%",
+      "absolute_change": "-0.53",
       "unit": "USD per 100 Liter",
-      "market_time": "07:16:00 AM",
-      "trend": "up"
+      "market_time": "01:10:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
@@ -69,37 +69,37 @@
       "percentage_change": "-0.36%",
       "absolute_change": "-0.35",
       "unit": "per Ton",
-      "market_time": "05:20:00 AM",
+      "market_time": "12:38:00 PM",
       "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
-      "price": "1.98",
-      "percentage_change": "0.48%",
-      "absolute_change": "0.01",
+      "price": "1.94",
+      "percentage_change": "-1.23%",
+      "absolute_change": "-0.02",
       "unit": "per Gallone",
-      "market_time": "07:16:00 AM",
-      "trend": "up"
+      "market_time": "01:10:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (Brent)",
-      "price": "63.94",
-      "percentage_change": "0.58%",
-      "absolute_change": "0.37",
+      "price": "63.45",
+      "percentage_change": "-0.19%",
+      "absolute_change": "-0.12",
       "unit": "USD per Barrel",
-      "market_time": "07:07:00 AM",
-      "trend": "up"
+      "market_time": "01:00:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
-      "price": "60.02",
-      "percentage_change": "0.99%",
-      "absolute_change": "0.59",
+      "price": "59.65",
+      "percentage_change": "0.37%",
+      "absolute_change": "0.22",
       "unit": "USD per Barrel",
-      "market_time": "07:16:00 AM",
+      "market_time": "01:10:00 PM",
       "trend": "up"
     },
     {
