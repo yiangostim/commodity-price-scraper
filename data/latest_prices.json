@@ -1,15 +1,15 @@
 {
-  "last_updated": "28/11/2025 06:19",
+  "last_updated": "28/11/2025 12:22",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,183.58",
-      "percentage_change": "0.62%",
-      "absolute_change": "25.63",
+      "price": "4,174.63",
+      "percentage_change": "0.40%",
+      "absolute_change": "16.68",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:16:00 AM",
+      "market_time": "06:58:00 AM",
       "trend": "up"
     },
     {
@@ -35,11 +35,11 @@
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "53.98",
-      "percentage_change": "1.09%",
-      "absolute_change": "0.58",
+      "price": "53.89",
+      "percentage_change": "0.92%",
+      "absolute_change": "0.49",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:16:00 AM",
+      "market_time": "06:58:00 AM",
       "trend": "up"
     },
     {
@@ -65,12 +65,12 @@
     {
       "category": "Industrial Metals",
       "name": "Coal",
-      "price": "96.40",
-      "percentage_change": "0.42%",
-      "absolute_change": "0.40",
+      "price": "95.00",
+      "percentage_change": "-1.45%",
+      "absolute_change": "-1.40",
       "unit": "per Ton",
-      "market_time": "11/27/2025",
-      "trend": "up"
+      "market_time": "03:22:00 AM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
@@ -85,12 +85,12 @@
     {
       "category": "Industrial Metals",
       "name": "Oil (Brent)",
-      "price": "63.68",
-      "percentage_change": "0.46%",
-      "absolute_change": "0.29",
+      "price": "63.20",
+      "percentage_change": "-0.30%",
+      "absolute_change": "-0.19",
       "unit": "USD per Barrel",
-      "market_time": "01:01:00 AM",
-      "trend": "up"
+      "market_time": "06:48:00 AM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
