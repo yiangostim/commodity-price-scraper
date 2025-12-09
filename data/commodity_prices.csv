@@ -6831,3 +6831,19 @@ timestamp,category,name,price,percentage_change,absolute_change,unit,market_time
 09/12/2025 12:24,Agriculture,Nickel,"14,702.50",-0.10%,-15.00,USD per Ton,12/8/2025,down
 09/12/2025 12:24,Agriculture,Zinc,"3,255.65",1.06%,34.00,USD per Ton,12/8/2025,up
 09/12/2025 12:24,Agriculture,Tin,"40,424.00",0.37%,148.00,USD per Ton,12/8/2025,up
+09/12/2025 18:16,Energy,Gold,"4,203.27",0.32%,13.48,USD per Troy Ounce,01:10:00 PM,up
+09/12/2025 18:16,Energy,Palladium,"1,499.00",1.56%,23.00,USD per Troy Ounce,01:10:00 PM,up
+09/12/2025 18:16,Energy,Platinum,"1,689.00",2.27%,37.50,USD per Troy Ounce,01:10:00 PM,up
+09/12/2025 18:16,Energy,Silver,60.31,3.64%,2.12,USD per Troy Ounce,01:10:00 PM,up
+09/12/2025 18:16,Industrial Metals,Natural Gas (Henry Hub),4.68,-4.80%,-0.24,USD per MMBtu,01:10:00 PM,down
+09/12/2025 18:16,Industrial Metals,Heating Oil,59.44,-2.17%,-1.32,USD per 100 Liter,01:10:00 PM,down
+09/12/2025 18:16,Industrial Metals,Coal,97.40,0.36%,0.35,per Ton,09:34:00 AM,up
+09/12/2025 18:16,Industrial Metals,RBOB Gasoline,1.79,-0.40%,-0.01,per Gallone,01:10:00 PM,down
+09/12/2025 18:16,Industrial Metals,Oil (Brent),61.87,-0.99%,-0.62,USD per Barrel,01:01:00 PM,down
+09/12/2025 18:16,Industrial Metals,Oil (WTI),58.18,-1.19%,-0.70,USD per Barrel,01:10:00 PM,down
+09/12/2025 18:16,Agriculture,Aluminium,"2,888.45",-0.64%,-18.55,USD per Ton,12/8/2025,down
+09/12/2025 18:16,Agriculture,Lead,"1,961.35",-0.34%,-6.65,USD per Ton,12/8/2025,down
+09/12/2025 18:16,Agriculture,Copper,"11,692.65",0.41%,47.90,USD per Ton,12/8/2025,up
+09/12/2025 18:16,Agriculture,Nickel,"14,702.50",-0.10%,-15.00,USD per Ton,12/8/2025,down
+09/12/2025 18:16,Agriculture,Zinc,"3,255.65",1.06%,34.00,USD per Ton,12/8/2025,up
+09/12/2025 18:16,Agriculture,Tin,"40,424.00",0.37%,148.00,USD per Ton,12/8/2025,up
