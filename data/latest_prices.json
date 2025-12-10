@@ -1,56 +1,56 @@
 {
-  "last_updated": "10/12/2025 12:24",
+  "last_updated": "10/12/2025 18:19",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,200.21",
-      "percentage_change": "-0.19%",
-      "absolute_change": "-8.20",
+      "price": "4,199.78",
+      "percentage_change": "-0.21%",
+      "absolute_change": "-8.63",
       "unit": "USD per Troy Ounce",
-      "market_time": "07:19:00 AM",
+      "market_time": "01:13:00 PM",
       "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Palladium",
-      "price": "1,490.50",
-      "percentage_change": "-0.83%",
-      "absolute_change": "-12.50",
+      "price": "1,464.50",
+      "percentage_change": "-2.56%",
+      "absolute_change": "-38.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "07:17:00 AM",
+      "market_time": "01:13:00 PM",
       "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "1,670.50",
-      "percentage_change": "-0.95%",
-      "absolute_change": "-16.00",
+      "price": "1,639.00",
+      "percentage_change": "-2.82%",
+      "absolute_change": "-47.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "07:19:00 AM",
+      "market_time": "01:13:00 PM",
       "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "61.02",
-      "percentage_change": "0.56%",
-      "absolute_change": "0.34",
+      "price": "60.68",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "07:19:00 AM",
-      "trend": "up"
+      "market_time": "01:13:00 PM",
+      "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
       "name": "Natural Gas (Henry Hub)",
-      "price": "4.49",
-      "percentage_change": "-1.88%",
-      "absolute_change": "-0.09",
+      "price": "4.69",
+      "percentage_change": "2.51%",
+      "absolute_change": "0.12",
       "unit": "USD per MMBtu",
-      "market_time": "07:19:00 AM",
-      "trend": "down"
+      "market_time": "01:14:00 PM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
@@ -59,48 +59,48 @@
       "percentage_change": "0.88%",
       "absolute_change": "0.53",
       "unit": "USD per 100 Liter",
-      "market_time": "07:19:00 AM",
+      "market_time": "01:13:00 PM",
       "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Coal",
-      "price": "95.50",
-      "percentage_change": "-1.95%",
-      "absolute_change": "-1.90",
+      "price": "96.25",
+      "percentage_change": "-1.18%",
+      "absolute_change": "-1.15",
       "unit": "per Ton",
-      "market_time": "07:01:00 AM",
+      "market_time": "12:55:00 PM",
       "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
-      "price": "1.80",
-      "percentage_change": "0.40%",
-      "absolute_change": "0.01",
+      "price": "1.78",
+      "percentage_change": "-0.77%",
+      "absolute_change": "-0.01",
       "unit": "per Gallone",
-      "market_time": "07:18:00 AM",
-      "trend": "up"
+      "market_time": "01:13:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (Brent)",
-      "price": "62.26",
-      "percentage_change": "0.23%",
-      "absolute_change": "0.14",
+      "price": "61.78",
+      "percentage_change": "-0.55%",
+      "absolute_change": "-0.34",
       "unit": "USD per Barrel",
-      "market_time": "07:09:00 AM",
-      "trend": "up"
+      "market_time": "01:04:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
-      "price": "58.57",
-      "percentage_change": "0.55%",
-      "absolute_change": "0.32",
+      "price": "58.13",
+      "percentage_change": "-0.21%",
+      "absolute_change": "-0.12",
       "unit": "USD per Barrel",
-      "market_time": "07:19:00 AM",
-      "trend": "up"
+      "market_time": "01:13:00 PM",
+      "trend": "down"
     },
     {
       "category": "Agriculture",
