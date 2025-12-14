@@ -1,5 +1,5 @@
 {
-  "last_updated": "14/12/2025 12:21",
+  "last_updated": "14/12/2025 18:16",
   "total_commodities": 16,
   "commodities": [
     {
@@ -46,21 +46,21 @@
       "category": "Industrial Metals",
       "name": "Natural Gas (Henry Hub)",
       "price": "4.11",
-      "percentage_change": "-2.79%",
-      "absolute_change": "-0.12",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per MMBtu",
       "market_time": "12/12/2025",
-      "trend": "down"
+      "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
       "name": "Heating Oil",
       "price": "58.12",
-      "percentage_change": "-1.35%",
-      "absolute_change": "-0.79",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per 100 Liter",
       "market_time": "12/12/2025",
-      "trend": "down"
+      "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
@@ -76,11 +76,11 @@
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
       "price": "1.75",
-      "percentage_change": "-0.44%",
-      "absolute_change": "-0.01",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "per Gallone",
       "market_time": "12/12/2025",
-      "trend": "down"
+      "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
@@ -96,11 +96,11 @@
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
       "price": "57.44",
-      "percentage_change": "-0.28%",
-      "absolute_change": "-0.16",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Barrel",
       "market_time": "12/12/2025",
-      "trend": "down"
+      "trend": "neutral"
     },
     {
       "category": "Agriculture",
