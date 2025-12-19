@@ -1,55 +1,55 @@
 {
-  "last_updated": "19/12/2025 06:19",
+  "last_updated": "19/12/2025 12:23",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,326.10",
-      "percentage_change": "-0.15%",
-      "absolute_change": "-6.54",
+      "price": "4,325.64",
+      "percentage_change": "-0.16%",
+      "absolute_change": "-7.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:13:00 AM",
+      "market_time": "07:19:00 AM",
       "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Palladium",
-      "price": "1,708.00",
-      "percentage_change": "0.47%",
-      "absolute_change": "8.00",
+      "price": "1,681.00",
+      "percentage_change": "-1.12%",
+      "absolute_change": "-19.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:12:00 AM",
-      "trend": "up"
+      "market_time": "07:19:00 AM",
+      "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "1,945.00",
-      "percentage_change": "1.20%",
-      "absolute_change": "23.00",
+      "price": "1,924.50",
+      "percentage_change": "0.13%",
+      "absolute_change": "2.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:12:00 AM",
+      "market_time": "07:19:00 AM",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "65.91",
-      "percentage_change": "0.61%",
-      "absolute_change": "0.40",
+      "price": "65.84",
+      "percentage_change": "0.50%",
+      "absolute_change": "0.33",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:13:00 AM",
+      "market_time": "07:19:00 AM",
       "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Natural Gas (Henry Hub)",
       "price": "3.90",
-      "percentage_change": "-0.31%",
-      "absolute_change": "-0.01",
+      "percentage_change": "-0.10%",
+      "absolute_change": "",
       "unit": "USD per MMBtu",
-      "market_time": "01:13:00 AM",
+      "market_time": "07:19:00 AM",
       "trend": "down"
     },
     {
@@ -59,48 +59,48 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per 100 Liter",
-      "market_time": "01:09:00 AM",
+      "market_time": "07:18:00 AM",
       "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
       "name": "Coal",
-      "price": "98.00",
-      "percentage_change": "1.66%",
-      "absolute_change": "1.60",
+      "price": "96.50",
+      "percentage_change": "0.10%",
+      "absolute_change": "0.10",
       "unit": "per Ton",
-      "market_time": "12/18/2025",
+      "market_time": "04:44:00 AM",
       "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
-      "price": "1.70",
-      "percentage_change": "-0.31%",
-      "absolute_change": "-0.01",
+      "price": "1.71",
+      "percentage_change": "0.31%",
+      "absolute_change": "0.01",
       "unit": "per Gallone",
-      "market_time": "12:44:00 AM",
-      "trend": "down"
+      "market_time": "07:19:00 AM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (Brent)",
-      "price": "59.67",
-      "percentage_change": "-0.07%",
-      "absolute_change": "-0.04",
+      "price": "59.99",
+      "percentage_change": "0.47%",
+      "absolute_change": "0.28",
       "unit": "USD per Barrel",
-      "market_time": "01:03:00 AM",
-      "trend": "down"
+      "market_time": "07:09:00 AM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
-      "price": "55.81",
-      "percentage_change": "-0.61%",
-      "absolute_change": "-0.34",
+      "price": "56.15",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Barrel",
-      "market_time": "01:13:00 AM",
-      "trend": "down"
+      "market_time": "07:19:00 AM",
+      "trend": "neutral"
     },
     {
       "category": "Agriculture",
