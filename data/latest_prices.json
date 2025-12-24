@@ -1,56 +1,56 @@
 {
-  "last_updated": "24/12/2025 06:20",
+  "last_updated": "24/12/2025 12:23",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,492.00",
-      "percentage_change": "0.14%",
-      "absolute_change": "6.18",
+      "price": "4,493.02",
+      "percentage_change": "0.16%",
+      "absolute_change": "7.20",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:13:00 AM",
+      "market_time": "07:19:00 AM",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Palladium",
-      "price": "1,930.00",
-      "percentage_change": "4.04%",
-      "absolute_change": "75.00",
+      "price": "1,832.00",
+      "percentage_change": "-1.24%",
+      "absolute_change": "-23.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:13:00 AM",
-      "trend": "up"
+      "market_time": "07:19:00 AM",
+      "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "2,337.00",
-      "percentage_change": "3.52%",
-      "absolute_change": "79.50",
+      "price": "2,321.00",
+      "percentage_change": "2.81%",
+      "absolute_change": "63.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:13:00 AM",
+      "market_time": "07:19:00 AM",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "72.19",
-      "percentage_change": "0.99%",
-      "absolute_change": "0.71",
+      "price": "72.31",
+      "percentage_change": "1.16%",
+      "absolute_change": "0.83",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:13:00 AM",
+      "market_time": "07:19:00 AM",
       "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Natural Gas (Henry Hub)",
-      "price": "4.38",
-      "percentage_change": "-0.59%",
-      "absolute_change": "-0.03",
+      "price": "4.45",
+      "percentage_change": "0.93%",
+      "absolute_change": "0.04",
       "unit": "USD per MMBtu",
-      "market_time": "01:13:00 AM",
-      "trend": "down"
+      "market_time": "07:19:00 AM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
@@ -59,47 +59,47 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per 100 Liter",
-      "market_time": "12:51:00 AM",
+      "market_time": "07:17:00 AM",
       "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
       "name": "Coal",
-      "price": "98.00",
-      "percentage_change": "1.61%",
-      "absolute_change": "1.55",
+      "price": "96.40",
+      "percentage_change": "-0.05%",
+      "absolute_change": "-0.05",
       "unit": "per Ton",
-      "market_time": "12/23/2025",
-      "trend": "up"
+      "market_time": "06:50:00 AM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
       "price": "1.75",
-      "percentage_change": "0.30%",
+      "percentage_change": "0.36%",
       "absolute_change": "0.01",
       "unit": "per Gallone",
-      "market_time": "01:08:00 AM",
+      "market_time": "07:08:00 AM",
       "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (Brent)",
-      "price": "62.40",
-      "percentage_change": "-0.08%",
-      "absolute_change": "-0.05",
+      "price": "62.49",
+      "percentage_change": "0.06%",
+      "absolute_change": "0.04",
       "unit": "USD per Barrel",
-      "market_time": "01:01:00 AM",
-      "trend": "down"
+      "market_time": "07:09:00 AM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
-      "price": "58.46",
-      "percentage_change": "0.14%",
-      "absolute_change": "0.08",
+      "price": "58.62",
+      "percentage_change": "0.41%",
+      "absolute_change": "0.24",
       "unit": "USD per Barrel",
-      "market_time": "01:14:00 AM",
+      "market_time": "07:19:00 AM",
       "trend": "up"
     },
     {
