@@ -1,66 +1,66 @@
 {
-  "last_updated": "12/01/2026 18:19",
+  "last_updated": "13/01/2026 00:56",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,610.76",
-      "percentage_change": "2.24%",
-      "absolute_change": "100.95",
+      "price": "4,588.25",
+      "percentage_change": "-0.21%",
+      "absolute_change": "-9.63",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:13:00 PM",
-      "trend": "up"
+      "market_time": "07:49:00 PM",
+      "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Palladium",
-      "price": "1,884.00",
-      "percentage_change": "3.60%",
-      "absolute_change": "65.50",
+      "price": "1,836.00",
+      "percentage_change": "-2.68%",
+      "absolute_change": "-50.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:12:00 PM",
-      "trend": "up"
+      "market_time": "07:47:00 PM",
+      "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "2,368.50",
-      "percentage_change": "3.61%",
-      "absolute_change": "82.50",
+      "price": "2,344.50",
+      "percentage_change": "-1.18%",
+      "absolute_change": "-28.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:13:00 PM",
-      "trend": "up"
+      "market_time": "07:49:00 PM",
+      "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "85.63",
-      "percentage_change": "7.14%",
-      "absolute_change": "5.71",
+      "price": "84.12",
+      "percentage_change": "-1.27%",
+      "absolute_change": "-1.08",
       "unit": "USD per Troy Ounce",
-      "market_time": "01:13:00 PM",
-      "trend": "up"
+      "market_time": "07:49:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "Natural Gas (Henry Hub)",
-      "price": "3.38",
-      "percentage_change": "6.56%",
-      "absolute_change": "0.21",
+      "price": "3.34",
+      "percentage_change": "-1.91%",
+      "absolute_change": "-0.07",
       "unit": "USD per MMBtu",
-      "market_time": "01:14:00 PM",
-      "trend": "up"
+      "market_time": "07:49:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "Heating Oil",
-      "price": "56.53",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "57.06",
+      "percentage_change": "0.47%",
+      "absolute_change": "0.26",
       "unit": "USD per 100 Liter",
-      "market_time": "01:13:00 PM",
-      "trend": "neutral"
+      "market_time": "07:49:00 PM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
@@ -75,91 +75,91 @@
     {
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
-      "price": "1.78",
-      "percentage_change": "0.17%",
-      "absolute_change": "",
+      "price": "1.80",
+      "percentage_change": "0.47%",
+      "absolute_change": "0.01",
       "unit": "per Gallone",
-      "market_time": "01:13:00 PM",
+      "market_time": "07:42:00 PM",
       "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (Brent)",
-      "price": "63.56",
-      "percentage_change": "0.86%",
-      "absolute_change": "0.54",
+      "price": "64.30",
+      "percentage_change": "2.03%",
+      "absolute_change": "1.28",
       "unit": "USD per Barrel",
-      "market_time": "01:04:00 PM",
+      "market_time": "06:00:00 PM",
       "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
-      "price": "59.08",
-      "percentage_change": "-0.07%",
-      "absolute_change": "-0.04",
+      "price": "59.71",
+      "percentage_change": "0.35%",
+      "absolute_change": "0.21",
       "unit": "USD per Barrel",
-      "market_time": "01:13:00 PM",
-      "trend": "down"
+      "market_time": "07:49:00 PM",
+      "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Aluminium",
-      "price": "3,139.07",
-      "percentage_change": "1.97%",
-      "absolute_change": "60.68",
+      "price": "3,172.26",
+      "percentage_change": "1.06%",
+      "absolute_change": "33.19",
       "unit": "USD per Ton",
-      "market_time": "1/9/2026",
+      "market_time": "10:17:00 AM",
       "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Lead",
-      "price": "1,994.00",
-      "percentage_change": "-0.54%",
-      "absolute_change": "-10.85",
+      "price": "2,018.85",
+      "percentage_change": "1.25%",
+      "absolute_change": "24.85",
       "unit": "USD per Ton",
-      "market_time": "1/9/2026",
-      "trend": "down"
+      "market_time": "09:40:00 AM",
+      "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Copper",
-      "price": "13,059.50",
-      "percentage_change": "1.36%",
-      "absolute_change": "175.35",
+      "price": "13,309.85",
+      "percentage_change": "1.92%",
+      "absolute_change": "250.35",
       "unit": "USD per Ton",
-      "market_time": "1/9/2026",
+      "market_time": "09:40:00 AM",
       "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Nickel",
-      "price": "17,662.50",
-      "percentage_change": "4.45%",
-      "absolute_change": "753.00",
+      "price": "17,927.50",
+      "percentage_change": "1.50%",
+      "absolute_change": "265.00",
       "unit": "USD per Ton",
-      "market_time": "1/9/2026",
+      "market_time": "09:25:00 AM",
       "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Zinc",
-      "price": "3,101.25",
-      "percentage_change": "-0.17%",
-      "absolute_change": "-5.40",
+      "price": "3,149.50",
+      "percentage_change": "1.56%",
+      "absolute_change": "48.25",
       "unit": "USD per Ton",
-      "market_time": "1/9/2026",
-      "trend": "down"
+      "market_time": "09:25:00 AM",
+      "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Tin",
-      "price": "44,500.00",
-      "percentage_change": "0.28%",
-      "absolute_change": "125.00",
+      "price": "48,176.00",
+      "percentage_change": "8.26%",
+      "absolute_change": "3,676.00",
       "unit": "USD per Ton",
-      "market_time": "1/9/2026",
+      "market_time": "08:19:00 AM",
       "trend": "up"
     }
   ]
