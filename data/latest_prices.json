@@ -1,5 +1,5 @@
 {
-  "last_updated": "14/02/2026 01:11",
+  "last_updated": "14/02/2026 06:32",
   "total_commodities": 16,
   "commodities": [
     {
@@ -9,38 +9,38 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "08:04:00 PM",
+      "market_time": "01:28:00 AM",
       "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Palladium",
       "price": "1,709.00",
-      "percentage_change": "3.48%",
-      "absolute_change": "57.50",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "04:50:00 PM",
-      "trend": "up"
+      "market_time": "2/13/2026",
+      "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Platinum",
       "price": "2,068.50",
-      "percentage_change": "2.07%",
-      "absolute_change": "42.00",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "04:52:00 PM",
-      "trend": "up"
+      "market_time": "2/13/2026",
+      "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Silver",
       "price": "77.43",
-      "percentage_change": "3.01%",
-      "absolute_change": "2.26",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "04:50:00 PM",
-      "trend": "up"
+      "market_time": "2/13/2026",
+      "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
@@ -49,7 +49,7 @@
       "percentage_change": "0.81%",
       "absolute_change": "0.03",
       "unit": "USD per MMBtu",
-      "market_time": "05:39:00 PM",
+      "market_time": "2/13/2026",
       "trend": "up"
     },
     {
@@ -59,7 +59,7 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per 100 Liter",
-      "market_time": "05:39:00 PM",
+      "market_time": "2/13/2026",
       "trend": "neutral"
     },
     {
@@ -69,7 +69,7 @@
       "percentage_change": "0.82%",
       "absolute_change": "0.85",
       "unit": "per Ton",
-      "market_time": "06:00:00 PM",
+      "market_time": "2/13/2026",
       "trend": "up"
     },
     {
@@ -79,7 +79,7 @@
       "percentage_change": "-0.26%",
       "absolute_change": "",
       "unit": "per Gallone",
-      "market_time": "05:38:00 PM",
+      "market_time": "2/13/2026",
       "trend": "down"
     },
     {
@@ -89,7 +89,7 @@
       "percentage_change": "0.30%",
       "absolute_change": "0.20",
       "unit": "USD per Barrel",
-      "market_time": "06:00:00 PM",
+      "market_time": "2/13/2026",
       "trend": "up"
     },
     {
@@ -99,7 +99,7 @@
       "percentage_change": "0.08%",
       "absolute_change": "0.05",
       "unit": "USD per Barrel",
-      "market_time": "05:39:00 PM",
+      "market_time": "2/13/2026",
       "trend": "up"
     },
     {
@@ -109,7 +109,7 @@
       "percentage_change": "-3.09%",
       "absolute_change": "-97.40",
       "unit": "USD per Ton",
-      "market_time": "01:57:00 PM",
+      "market_time": "2/13/2026",
       "trend": "down"
     },
     {
@@ -119,7 +119,7 @@
       "percentage_change": "-1.59%",
       "absolute_change": "-31.00",
       "unit": "USD per Ton",
-      "market_time": "08:01:00 AM",
+      "market_time": "2/13/2026",
       "trend": "down"
     },
     {
@@ -129,7 +129,7 @@
       "percentage_change": "-3.44%",
       "absolute_change": "-453.00",
       "unit": "USD per Ton",
-      "market_time": "07:46:00 AM",
+      "market_time": "2/13/2026",
       "trend": "down"
     },
     {
@@ -139,7 +139,7 @@
       "percentage_change": "-3.75%",
       "absolute_change": "-655.00",
       "unit": "USD per Ton",
-      "market_time": "08:20:00 AM",
+      "market_time": "2/13/2026",
       "trend": "down"
     },
     {
@@ -149,7 +149,7 @@
       "percentage_change": "-2.97%",
       "absolute_change": "-101.00",
       "unit": "USD per Ton",
-      "market_time": "08:06:00 AM",
+      "market_time": "2/13/2026",
       "trend": "down"
     },
     {
@@ -159,7 +159,7 @@
       "percentage_change": "-2.42%",
       "absolute_change": "-1,200.00",
       "unit": "USD per Ton",
-      "market_time": "07:56:00 AM",
+      "market_time": "2/13/2026",
       "trend": "down"
     }
   ]
