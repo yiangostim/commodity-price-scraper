@@ -1,5 +1,5 @@
 {
-  "last_updated": "05/04/2026 12:35",
+  "last_updated": "05/04/2026 18:29",
   "total_commodities": 16,
   "commodities": [
     {
@@ -49,7 +49,7 @@
       "percentage_change": "-0.67%",
       "absolute_change": "-0.02",
       "unit": "USD per MMBtu",
-      "market_time": "4/2/2026",
+      "market_time": "09:34:00 AM",
       "trend": "down"
     },
     {
@@ -59,7 +59,7 @@
       "percentage_change": "7.39%",
       "absolute_change": "7.93",
       "unit": "USD per 100 Liter",
-      "market_time": "4/2/2026",
+      "market_time": "09:37:00 AM",
       "trend": "up"
     },
     {
@@ -75,12 +75,12 @@
     {
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
-      "price": "3.29",
-      "percentage_change": "6.36%",
-      "absolute_change": "0.20",
+      "price": "3.28",
+      "percentage_change": "-0.35%",
+      "absolute_change": "-0.01",
       "unit": "per Gallone",
-      "market_time": "4/2/2026",
-      "trend": "up"
+      "market_time": "09:30:00 AM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
@@ -99,7 +99,7 @@
       "percentage_change": "11.41%",
       "absolute_change": "11.42",
       "unit": "USD per Barrel",
-      "market_time": "4/2/2026",
+      "market_time": "09:36:00 AM",
       "trend": "up"
     },
     {
