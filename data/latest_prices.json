@@ -1,45 +1,45 @@
 {
-  "last_updated": "25/05/2026 02:31",
+  "last_updated": "25/05/2026 09:48",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,560.90",
-      "percentage_change": "1.23%",
-      "absolute_change": "55.23",
+      "price": "4,565.16",
+      "percentage_change": "1.32%",
+      "absolute_change": "59.49",
       "unit": "USD per Troy Ounce",
-      "market_time": "10:28:00 PM",
+      "market_time": "05:43:00 AM",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Palladium",
-      "price": "1,384.00",
-      "percentage_change": "2.22%",
-      "absolute_change": "30.00",
+      "price": "1,389.00",
+      "percentage_change": "2.58%",
+      "absolute_change": "35.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "10:28:00 PM",
+      "market_time": "05:36:00 AM",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "1,969.00",
-      "percentage_change": "2.15%",
-      "absolute_change": "41.50",
+      "price": "1,970.50",
+      "percentage_change": "2.23%",
+      "absolute_change": "43.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "10:23:00 PM",
+      "market_time": "05:40:00 AM",
       "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "77.80",
-      "percentage_change": "3.14%",
-      "absolute_change": "2.37",
+      "price": "77.99",
+      "percentage_change": "3.39%",
+      "absolute_change": "2.56",
       "unit": "USD per Troy Ounce",
-      "market_time": "10:28:00 PM",
+      "market_time": "05:43:00 AM",
       "trend": "up"
     },
     {
@@ -85,11 +85,11 @@
     {
       "category": "Industrial Metals",
       "name": "Oil (Brent)",
-      "price": "99.14",
-      "percentage_change": "-4.90%",
-      "absolute_change": "-5.11",
+      "price": "98.29",
+      "percentage_change": "-5.72%",
+      "absolute_change": "-5.96",
       "unit": "USD per Barrel",
-      "market_time": "10:17:00 PM",
+      "market_time": "05:33:00 AM",
       "trend": "down"
     },
     {
