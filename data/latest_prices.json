@@ -1,55 +1,55 @@
 {
-  "last_updated": "29/05/2026 20:07",
+  "last_updated": "30/05/2026 02:06",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,545.45",
-      "percentage_change": "1.12%",
-      "absolute_change": "50.48",
+      "price": "4,542.47",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "04:01:00 PM",
-      "trend": "up"
+      "market_time": "10:01:00 PM",
+      "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Palladium",
-      "price": "1,361.50",
-      "percentage_change": "-0.80%",
-      "absolute_change": "-11.00",
+      "price": "1,359.50",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "04:00:00 PM",
-      "trend": "down"
+      "market_time": "09:06:00 PM",
+      "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "1,927.50",
-      "percentage_change": "0.05%",
-      "absolute_change": "1.00",
+      "price": "1,925.00",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "03:59:00 PM",
-      "trend": "up"
+      "market_time": "09:06:00 PM",
+      "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "75.61",
-      "percentage_change": "-0.07%",
-      "absolute_change": "-0.05",
+      "price": "75.37",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "04:01:00 PM",
-      "trend": "down"
+      "market_time": "09:06:00 PM",
+      "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
       "name": "Natural Gas (Henry Hub)",
       "price": "3.29",
-      "percentage_change": "0.12%",
-      "absolute_change": "",
+      "percentage_change": "0.15%",
+      "absolute_change": "0.01",
       "unit": "USD per MMBtu",
-      "market_time": "04:01:00 PM",
+      "market_time": "05:38:00 PM",
       "trend": "up"
     },
     {
@@ -95,71 +95,71 @@
     {
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
-      "price": "88.09",
-      "percentage_change": "-0.91%",
-      "absolute_change": "-0.81",
+      "price": "87.36",
+      "percentage_change": "-1.73%",
+      "absolute_change": "-1.54",
       "unit": "USD per Barrel",
-      "market_time": "04:02:00 PM",
+      "market_time": "05:39:00 PM",
       "trend": "down"
     },
     {
       "category": "Agriculture",
       "name": "Aluminium",
-      "price": "3,659.24",
-      "percentage_change": "-0.28%",
-      "absolute_change": "-10.43",
+      "price": "3,665.04",
+      "percentage_change": "0.16%",
+      "absolute_change": "5.80",
       "unit": "USD per Ton",
-      "market_time": "5/28/2026",
-      "trend": "down"
+      "market_time": "02:02:00 PM",
+      "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Lead",
-      "price": "1,984.65",
-      "percentage_change": "-1.31%",
-      "absolute_change": "-26.25",
+      "price": "2,016.00",
+      "percentage_change": "1.56%",
+      "absolute_change": "31.00",
       "unit": "USD per Ton",
-      "market_time": "5/28/2026",
-      "trend": "down"
+      "market_time": "08:14:00 AM",
+      "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Copper",
-      "price": "13,512.90",
-      "percentage_change": "-0.20%",
-      "absolute_change": "-27.50",
+      "price": "13,615.00",
+      "percentage_change": "0.75%",
+      "absolute_change": "102.00",
       "unit": "USD per Ton",
-      "market_time": "5/28/2026",
-      "trend": "down"
+      "market_time": "07:46:00 AM",
+      "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Nickel",
-      "price": "18,734.00",
-      "percentage_change": "-0.11%",
-      "absolute_change": "-20.00",
+      "price": "18,875.00",
+      "percentage_change": "0.75%",
+      "absolute_change": "140.00",
       "unit": "USD per Ton",
-      "market_time": "5/28/2026",
-      "trend": "down"
+      "market_time": "08:21:00 AM",
+      "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Zinc",
-      "price": "3,485.65",
-      "percentage_change": "-0.86%",
-      "absolute_change": "-30.25",
+      "price": "3,549.00",
+      "percentage_change": "1.81%",
+      "absolute_change": "63.00",
       "unit": "USD per Ton",
-      "market_time": "5/28/2026",
-      "trend": "down"
+      "market_time": "08:07:00 AM",
+      "trend": "up"
     },
     {
       "category": "Agriculture",
       "name": "Tin",
-      "price": "54,896.00",
-      "percentage_change": "0.45%",
-      "absolute_change": "245.00",
+      "price": "55,010.00",
+      "percentage_change": "0.20%",
+      "absolute_change": "110.00",
       "unit": "USD per Ton",
-      "market_time": "5/28/2026",
+      "market_time": "07:58:00 AM",
       "trend": "up"
     }
   ]
