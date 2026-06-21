@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/06/2026 09:34",
+  "last_updated": "21/06/2026 13:47",
   "total_commodities": 16,
   "commodities": [
     {
@@ -96,11 +96,11 @@
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
       "price": "76.52",
-      "percentage_change": "-0.10%",
-      "absolute_change": "-0.08",
+      "percentage_change": "0.88%",
+      "absolute_change": "0.67",
       "unit": "USD per Barrel",
       "market_time": "6/19/2026",
-      "trend": "down"
+      "trend": "up"
     },
     {
       "category": "Agriculture",
