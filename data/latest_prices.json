@@ -1,65 +1,65 @@
 {
-  "last_updated": "21/06/2026 19:14",
+  "last_updated": "22/06/2026 02:46",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,156.56",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "4,193.86",
+      "percentage_change": "0.90%",
+      "absolute_change": "37.30",
       "unit": "USD per Troy Ounce",
-      "market_time": "03:10:00 PM",
-      "trend": "neutral"
+      "market_time": "10:40:00 PM",
+      "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Palladium",
-      "price": "1,258.50",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "1,273.00",
+      "percentage_change": "1.15%",
+      "absolute_change": "14.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "02:15:00 PM",
-      "trend": "neutral"
+      "market_time": "10:40:00 PM",
+      "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "1,668.00",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "1,670.50",
+      "percentage_change": "0.15%",
+      "absolute_change": "2.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "02:15:00 PM",
-      "trend": "neutral"
+      "market_time": "10:40:00 PM",
+      "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "65.10",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "66.06",
+      "percentage_change": "1.47%",
+      "absolute_change": "0.96",
       "unit": "USD per Troy Ounce",
-      "market_time": "02:15:00 PM",
-      "trend": "neutral"
+      "market_time": "10:40:00 PM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Natural Gas (Henry Hub)",
-      "price": "3.20",
-      "percentage_change": "-1.08%",
-      "absolute_change": "-0.04",
+      "price": "3.29",
+      "percentage_change": "1.86%",
+      "absolute_change": "0.06",
       "unit": "USD per MMBtu",
-      "market_time": "6/19/2026",
-      "trend": "down"
+      "market_time": "10:40:00 PM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
       "name": "Heating Oil",
-      "price": "84.27",
-      "percentage_change": "1.92%",
-      "absolute_change": "1.59",
+      "price": "83.48",
+      "percentage_change": "0.96%",
+      "absolute_change": "0.79",
       "unit": "USD per 100 Liter",
-      "market_time": "6/19/2026",
+      "market_time": "10:26:00 PM",
       "trend": "up"
     },
     {
@@ -75,39 +75,39 @@
     {
       "category": "Industrial Metals",
       "name": "RBOB Gasoline",
-      "price": "3.00",
-      "percentage_change": "0.31%",
-      "absolute_change": "0.01",
+      "price": "2.97",
+      "percentage_change": "-0.87%",
+      "absolute_change": "-0.03",
       "unit": "per Gallone",
-      "market_time": "6/19/2026",
-      "trend": "up"
+      "market_time": "10:41:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (Brent)",
-      "price": "80.57",
-      "percentage_change": "1.65%",
-      "absolute_change": "1.31",
+      "price": "79.10",
+      "percentage_change": "-1.59%",
+      "absolute_change": "-1.28",
       "unit": "USD per Barrel",
-      "market_time": "6/19/2026",
-      "trend": "up"
+      "market_time": "10:30:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
-      "price": "76.52",
-      "percentage_change": "0.88%",
-      "absolute_change": "0.67",
+      "price": "75.18",
+      "percentage_change": "-0.88%",
+      "absolute_change": "-0.67",
       "unit": "USD per Barrel",
-      "market_time": "6/19/2026",
-      "trend": "up"
+      "market_time": "10:41:00 PM",
+      "trend": "down"
     },
     {
       "category": "Agriculture",
       "name": "Aluminium",
-      "price": "3,396.50",
-      "percentage_change": "-0.38%",
-      "absolute_change": "-13.09",
+      "price": "3,404.45",
+      "percentage_change": "-0.15%",
+      "absolute_change": "-5.14",
       "unit": "USD per Ton",
       "market_time": "6/19/2026",
       "trend": "down"
@@ -115,9 +115,9 @@
     {
       "category": "Agriculture",
       "name": "Lead",
-      "price": "1,935.00",
-      "percentage_change": "-0.51%",
-      "absolute_change": "-10.00",
+      "price": "1,934.20",
+      "percentage_change": "-0.50%",
+      "absolute_change": "-9.80",
       "unit": "USD per Ton",
       "market_time": "6/19/2026",
       "trend": "down"
@@ -125,9 +125,9 @@
     {
       "category": "Agriculture",
       "name": "Copper",
-      "price": "13,530.50",
+      "price": "13,530.15",
       "percentage_change": "-0.60%",
-      "absolute_change": "-81.50",
+      "absolute_change": "-81.85",
       "unit": "USD per Ton",
       "market_time": "6/19/2026",
       "trend": "down"
@@ -135,9 +135,9 @@
     {
       "category": "Agriculture",
       "name": "Nickel",
-      "price": "17,590.00",
-      "percentage_change": "-1.01%",
-      "absolute_change": "-180.00",
+      "price": "17,589.00",
+      "percentage_change": "-0.99%",
+      "absolute_change": "-176.00",
       "unit": "USD per Ton",
       "market_time": "6/19/2026",
       "trend": "down"
@@ -145,9 +145,9 @@
     {
       "category": "Agriculture",
       "name": "Zinc",
-      "price": "3,584.50",
-      "percentage_change": "0.55%",
-      "absolute_change": "19.50",
+      "price": "3,584.40",
+      "percentage_change": "0.57%",
+      "absolute_change": "20.40",
       "unit": "USD per Ton",
       "market_time": "6/19/2026",
       "trend": "up"
@@ -155,9 +155,9 @@
     {
       "category": "Agriculture",
       "name": "Tin",
-      "price": "53,200.00",
-      "percentage_change": "-0.48%",
-      "absolute_change": "-255.00",
+      "price": "53,149.00",
+      "percentage_change": "-0.57%",
+      "absolute_change": "-302.50",
       "unit": "USD per Ton",
       "market_time": "6/19/2026",
       "trend": "down"
