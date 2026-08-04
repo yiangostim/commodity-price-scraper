@@ -21967,3 +21967,19 @@ timestamp,category,name,price,percentage_change,absolute_change,unit,market_time
 04/08/2026 13:47,Agriculture,Nickel,"16,775.00",-1.87%,-319.00,USD per Ton,8/3/2026,down
 04/08/2026 13:47,Agriculture,Zinc,"3,750.35",1.08%,39.90,USD per Ton,8/3/2026,up
 04/08/2026 13:47,Agriculture,Tin,"55,176.00",0.95%,517.50,USD per Ton,8/3/2026,up
+04/08/2026 19:17,Energy,Gold,"4,083.91",0.75%,30.45,USD per Troy Ounce,03:13:00 PM,up
+04/08/2026 19:17,Energy,Palladium,"1,355.50",8.05%,101.00,USD per Troy Ounce,03:12:00 PM,up
+04/08/2026 19:17,Energy,Platinum,"1,744.00",7.55%,122.50,USD per Troy Ounce,03:12:00 PM,up
+04/08/2026 19:17,Energy,Silver,59.65,2.47%,1.44,USD per Troy Ounce,03:13:00 PM,up
+04/08/2026 19:17,Industrial Metals,Natural Gas (Henry Hub),2.68,-3.74%,-0.10,USD per MMBtu,03:12:00 PM,down
+04/08/2026 19:17,Industrial Metals,Heating Oil,99.86,-2.58%,-2.64,USD per 100 Liter,03:13:00 PM,down
+04/08/2026 19:17,Industrial Metals,Coal,118.00,0.21%,0.25,per Ton,09:39:00 AM,up
+04/08/2026 19:17,Industrial Metals,RBOB Gasoline,2.86,-3.63%,-0.11,per Gallone,03:13:00 PM,down
+04/08/2026 19:17,Industrial Metals,Oil (Brent),79.39,-5.23%,-4.38,USD per Barrel,03:04:00 PM,down
+04/08/2026 19:17,Industrial Metals,Oil (WTI),75.80,-5.65%,-4.54,USD per Barrel,03:13:00 PM,down
+04/08/2026 19:17,Agriculture,Aluminium,"3,218.71",1.25%,39.71,USD per Ton,8/3/2026,up
+04/08/2026 19:17,Agriculture,Lead,"1,827.85",-1.27%,-23.60,USD per Ton,8/3/2026,down
+04/08/2026 19:17,Agriculture,Copper,"13,944.85",0.81%,111.55,USD per Ton,8/3/2026,up
+04/08/2026 19:17,Agriculture,Nickel,"16,775.00",-1.87%,-319.00,USD per Ton,8/3/2026,down
+04/08/2026 19:17,Agriculture,Zinc,"3,750.35",1.08%,39.90,USD per Ton,8/3/2026,up
+04/08/2026 19:17,Agriculture,Tin,"55,176.00",0.95%,517.50,USD per Ton,8/3/2026,up
