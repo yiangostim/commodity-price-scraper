@@ -1,16 +1,16 @@
 {
-  "last_updated": "30/08/2026 15:42",
+  "last_updated": "30/08/2026 20:16",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,458.80",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "4,456.15",
+      "percentage_change": "-0.06%",
+      "absolute_change": "-2.65",
       "unit": "USD per Troy Ounce",
-      "market_time": "8/29/2026",
-      "trend": "neutral"
+      "market_time": "04:10:00 PM",
+      "trend": "down"
     },
     {
       "category": "Energy",
@@ -19,28 +19,28 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "8/29/2026",
+      "market_time": "02:14:00 PM",
       "trend": "neutral"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "1,823.00",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "1,844.50",
+      "percentage_change": "1.18%",
+      "absolute_change": "21.50",
       "unit": "USD per Troy Ounce",
-      "market_time": "8/29/2026",
-      "trend": "neutral"
+      "market_time": "02:55:00 PM",
+      "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "66.44",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "66.38",
+      "percentage_change": "-0.09%",
+      "absolute_change": "-0.06",
       "unit": "USD per Troy Ounce",
-      "market_time": "8/29/2026",
-      "trend": "neutral"
+      "market_time": "02:56:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
