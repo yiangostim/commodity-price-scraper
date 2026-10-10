@@ -1,5 +1,5 @@
 {
-  "last_updated": "10/10/2026 03:20",
+  "last_updated": "10/10/2026 11:34",
   "total_commodities": 16,
   "commodities": [
     {
@@ -9,7 +9,7 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "11:13:00 PM",
+      "market_time": "07:28:00 AM",
       "trend": "neutral"
     },
     {
@@ -19,7 +19,7 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "10:31:00 PM",
+      "market_time": "06:39:00 AM",
       "trend": "neutral"
     },
     {
@@ -29,7 +29,7 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "10:31:00 PM",
+      "market_time": "06:39:00 AM",
       "trend": "neutral"
     },
     {
@@ -39,7 +39,7 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "10:31:00 PM",
+      "market_time": "06:39:00 AM",
       "trend": "neutral"
     },
     {
@@ -49,7 +49,7 @@
       "percentage_change": "1.64%",
       "absolute_change": "0.05",
       "unit": "USD per MMBtu",
-      "market_time": "05:39:00 PM",
+      "market_time": "10/9/2026",
       "trend": "up"
     },
     {
@@ -59,7 +59,7 @@
       "percentage_change": "-2.87%",
       "absolute_change": "-3.70",
       "unit": "USD per 100 Liter",
-      "market_time": "05:40:00 PM",
+      "market_time": "10/9/2026",
       "trend": "down"
     },
     {
@@ -69,7 +69,7 @@
       "percentage_change": "-0.31%",
       "absolute_change": "-0.45",
       "unit": "per Ton",
-      "market_time": "05:00:00 PM",
+      "market_time": "10/9/2026",
       "trend": "down"
     },
     {
@@ -79,7 +79,7 @@
       "percentage_change": "-0.63%",
       "absolute_change": "-0.02",
       "unit": "per Gallone",
-      "market_time": "05:40:00 PM",
+      "market_time": "10/9/2026",
       "trend": "down"
     },
     {
@@ -89,7 +89,7 @@
       "percentage_change": "0.42%",
       "absolute_change": "0.44",
       "unit": "USD per Barrel",
-      "market_time": "06:00:00 PM",
+      "market_time": "10/9/2026",
       "trend": "up"
     },
     {
@@ -99,7 +99,7 @@
       "percentage_change": "0.39%",
       "absolute_change": "0.36",
       "unit": "USD per Barrel",
-      "market_time": "05:39:00 PM",
+      "market_time": "10/9/2026",
       "trend": "up"
     },
     {
@@ -109,7 +109,7 @@
       "percentage_change": "-0.07%",
       "absolute_change": "-2.00",
       "unit": "USD per Ton",
-      "market_time": "12:51:00 PM",
+      "market_time": "10/9/2026",
       "trend": "down"
     },
     {
@@ -119,7 +119,7 @@
       "percentage_change": "0.76%",
       "absolute_change": "14.00",
       "unit": "USD per Ton",
-      "market_time": "08:01:00 AM",
+      "market_time": "10/9/2026",
       "trend": "up"
     },
     {
@@ -129,7 +129,7 @@
       "percentage_change": "1.12%",
       "absolute_change": "163.00",
       "unit": "USD per Ton",
-      "market_time": "07:48:00 AM",
+      "market_time": "10/9/2026",
       "trend": "up"
     },
     {
@@ -139,7 +139,7 @@
       "percentage_change": "0.84%",
       "absolute_change": "130.00",
       "unit": "USD per Ton",
-      "market_time": "08:17:00 AM",
+      "market_time": "10/9/2026",
       "trend": "up"
     },
     {
@@ -149,7 +149,7 @@
       "percentage_change": "1.56%",
       "absolute_change": "59.00",
       "unit": "USD per Ton",
-      "market_time": "08:07:00 AM",
+      "market_time": "10/9/2026",
       "trend": "up"
     },
     {
@@ -159,7 +159,7 @@
       "percentage_change": "-0.28%",
       "absolute_change": "-150.00",
       "unit": "USD per Ton",
-      "market_time": "07:56:00 AM",
+      "market_time": "10/9/2026",
       "trend": "down"
     }
   ]
