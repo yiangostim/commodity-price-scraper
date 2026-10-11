@@ -1,5 +1,5 @@
 {
-  "last_updated": "11/10/2026 17:00",
+  "last_updated": "11/10/2026 21:12",
   "total_commodities": 16,
   "commodities": [
     {
@@ -9,7 +9,7 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "10/10/2026",
+      "market_time": "05:07:00 PM",
       "trend": "neutral"
     },
     {
@@ -19,7 +19,7 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "10/10/2026",
+      "market_time": "02:15:00 PM",
       "trend": "neutral"
     },
     {
@@ -29,7 +29,7 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "10/10/2026",
+      "market_time": "02:15:00 PM",
       "trend": "neutral"
     },
     {
@@ -39,28 +39,28 @@
       "percentage_change": "%",
       "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "10/10/2026",
+      "market_time": "02:15:00 PM",
       "trend": "neutral"
     },
     {
       "category": "Industrial Metals",
       "name": "Natural Gas (Henry Hub)",
-      "price": "3.22",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "3.19",
+      "percentage_change": "-0.93%",
+      "absolute_change": "-0.03",
       "unit": "USD per MMBtu",
-      "market_time": "10/9/2026",
-      "trend": "neutral"
+      "market_time": "05:00:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
       "name": "Heating Oil",
-      "price": "125.22",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "123.63",
+      "percentage_change": "-1.27%",
+      "absolute_change": "-1.59",
       "unit": "USD per 100 Liter",
-      "market_time": "10/9/2026",
-      "trend": "neutral"
+      "market_time": "05:07:00 PM",
+      "trend": "down"
     },
     {
       "category": "Industrial Metals",
@@ -95,12 +95,12 @@
     {
       "category": "Industrial Metals",
       "name": "Oil (WTI)",
-      "price": "91.85",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "91.67",
+      "percentage_change": "-0.20%",
+      "absolute_change": "-0.18",
       "unit": "USD per Barrel",
-      "market_time": "10/9/2026",
-      "trend": "neutral"
+      "market_time": "05:05:00 PM",
+      "trend": "down"
     },
     {
       "category": "Agriculture",
