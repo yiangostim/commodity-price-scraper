@@ -1,46 +1,46 @@
 {
-  "last_updated": "18/10/2026 15:05",
+  "last_updated": "18/10/2026 19:51",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
-      "price": "4,164.67",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "4,165.50",
+      "percentage_change": "0.02%",
+      "absolute_change": "0.83",
       "unit": "USD per Troy Ounce",
-      "market_time": "10/17/2026",
-      "trend": "neutral"
+      "market_time": "03:46:00 PM",
+      "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Palladium",
-      "price": "1,115.50",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "1,119.50",
+      "percentage_change": "0.36%",
+      "absolute_change": "4.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "10/17/2026",
-      "trend": "neutral"
+      "market_time": "02:26:00 PM",
+      "trend": "up"
     },
     {
       "category": "Energy",
       "name": "Platinum",
-      "price": "1,636.00",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "1,629.00",
+      "percentage_change": "-0.43%",
+      "absolute_change": "-7.00",
       "unit": "USD per Troy Ounce",
-      "market_time": "10/17/2026",
-      "trend": "neutral"
+      "market_time": "02:27:00 PM",
+      "trend": "down"
     },
     {
       "category": "Energy",
       "name": "Silver",
-      "price": "56.99",
-      "percentage_change": "%",
-      "absolute_change": "",
+      "price": "57.03",
+      "percentage_change": "0.07%",
+      "absolute_change": "0.04",
       "unit": "USD per Troy Ounce",
-      "market_time": "10/17/2026",
-      "trend": "neutral"
+      "market_time": "02:25:00 PM",
+      "trend": "up"
     },
     {
       "category": "Industrial Metals",
