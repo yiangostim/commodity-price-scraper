@@ -1,16 +1,16 @@
 {
-  "last_updated": "30/10/2026 21:47",
+  "last_updated": "31/10/2026 03:15",
   "total_commodities": 16,
   "commodities": [
     {
       "category": "Energy",
       "name": "Gold",
       "price": "3,875.36",
-      "percentage_change": "-3.71%",
-      "absolute_change": "-149.35",
+      "percentage_change": "%",
+      "absolute_change": "",
       "unit": "USD per Troy Ounce",
-      "market_time": "05:43:00 PM",
-      "trend": "down"
+      "market_time": "11:10:00 PM",
+      "trend": "neutral"
     },
     {
       "category": "Energy",
